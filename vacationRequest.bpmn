@@ -11,7 +11,7 @@
     <bpmn:sequenceFlow id="Flow_1sjurn9" sourceRef="Activity_00ea5y4" targetRef="Event_1uwagwx" />
     <bpmn:userTask id="Activity_00ea5y4">
       <bpmn:extensionElements>
-        <zeebe:formDefinition formKey="http://localhost:8080/app/my-first-application/page1-67cc52391662153e7455c117?embed=true" />
+        <zeebe:formDefinition formKey="https://form.jotform.com/250664233461352" />
       </bpmn:extensionElements>
       <bpmn:incoming>Flow_18g44le</bpmn:incoming>
       <bpmn:outgoing>Flow_1sjurn9</bpmn:outgoing>
